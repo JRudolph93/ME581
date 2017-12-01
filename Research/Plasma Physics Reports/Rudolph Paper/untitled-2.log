@@ -1,0 +1,155 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.11.20)  20 NOV 2017 16:58
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**untitled-2.tex
+(./untitled-2.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
+Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for do
+cumentation)
+ Copyright (c) 2001 The American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <ogawa@teleport.com>
+ Based on work by David Carlisle <david@dcarlisle.demon.co.uk>.
+ltxutil: portions licensed from W. E. Baxter (web@superscript.com)
+Class revtex4 Info: Repairing broken LateX \@sect on input line 596.
+\intertabularlinepenalty=\count79
+\@tbpen=\count80
+\@arstrutbox@hline=\box26
+Class revtex4 Info: Repairing broken LaTeX \@xbitor on input line 1610.
+ltxgrid: portions licensed from W. E. Baxter (web@superscript.com)
+\c@linecount=\count81
+\output=\toks14
+\@protection@box=\box27
+\@topmark@saved=\toks15
+\footins@saved=\box28
+\pagesofar=\box29
+\footbox=\box30
+\pagegrid@col=\count82
+Class revtex4 Info: Incorporating package {textcase}  [1998/11/12 v0.06 Text on
+ly upper/lower case changing (DPC)]. on input line 3682.
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@affil=\count83
+\absbox=\box31
+\c@part=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\c@figure=\count90
+\c@table=\count91
+
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count92
+)
+\widetext@top=\box32
+\widetext@bot=\box33
+
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/revsymb.sty
+Package: revsymb 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documenta
+tion)
+LaTeX Info: Redefining \REV@mathfrak on input line 118.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/aps.rtx
+File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
+n)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/revtex4/12pt.rtx
+File: 12pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentati
+on)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2016/02/24 3.9q The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2012/08/20 v3.3p English support from the babel system
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2016/02/24 3.9q Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen102
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+
+LaTeX Warning: Unused global option(s):
+    [centertags].
+
+(./untitled-2.aux)
+\openout1 = `untitled-2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+Class revtex4 Info: Patching LaTeX tabular. on input line 22.
+Class revtex4 Info: cite was not loaded (OK!) on input line 22.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+[2]
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 84--88
+ \OT1/cmr/m/n/12 2cm$[]$ 
+ []
+
+[3] [4] (./untitled-2.aux) ) 
+Here is how much of TeX's memory you used:
+ 2234 strings out of 493029
+ 27480 string characters out of 6136233
+ 97246 words of memory out of 5000000
+ 5807 multiletter control sequences out of 15000+600000
+ 9378 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,7n,26p,719b,287s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on untitled-2.pdf (4 pages, 111987 bytes).
+PDF statistics:
+ 57 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

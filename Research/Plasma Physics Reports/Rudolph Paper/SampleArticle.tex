@@ -1,0 +1,154 @@
+%
+% paper.tex, <first name, patronymic name, and last name of the corresponding author>, e-mail
+%
+\documentclass[
+aps,%
+12pt,%
+final,%
+notitlepage,%
+oneside,%
+onecolumn,%
+nobibnotes,%
+nofootinbib,% In the current version of REVTeX, when this option is on,
+%             footnotes in tables do not work.
+superscriptaddress,%
+noshowpacs,%
+centertags
+]%
+{revtex4}
+
+\usepackage[english]{babel}
+
+\begin{document}
+\selectlanguage{english} % For a paper in Russian
+%\selectlanguage{english} % For a paper in English
+%
+
+
+\title{analysis and modeling of lithium flows in porous materials}
+%
+\author{\firstname{Joshua} \surname{Rudolph}}
+\email[]{jrudolph@purdue.edu}
+%\homepage[]{Your web page}
+%\thanks{}
+%\altaffiliation{}
+\affiliation{School of Nuclear Engineering, Purdue University, West Lafayette, Indiana 47907, USA}
+%
+\author{\firstname{Gennady} \surname{Miloshevsky}}
+%\email[]{Your e-mail address}
+%\homepage[]{Your web page}
+%\thanks{}
+%\altaffiliation{}
+\noaffiliation
+%
+\begin{abstract}
+Liquid lithium (LL) walls have been identified as a potential solution to many of the engineering problems in a magnetic fusion reactor. The flowing liquid metal could provide heat removal, elimination of erosion via constant renewal of the wall, and possible stabilization of MHD modes. The NSTX-U experiments at the Princeton Plasma Physics Laboratory are planned for testing a pre-filled LL divertor system with capillary wicking channels for supply of lithium from an internal reservoir [ref.]. However, the erosion of the LL surface can be induced by plasma flow or Lorentz forces that may lead to its instability and undesirable effects such as waving, de-wetting, and lithium droplet formation. 
+\end{abstract}
+%
+\maketitle
+%
+\section{Introduction}
+...........................
+\subsection{}
+...........................
+\newpage
+\begin{thebibliography}{99}
+\bibitem{1}
+%\refitem{...}
+...........................
+\bibitem{2}
+%\refitem{...}
+...........................
+\end{thebibliography}
+%
+\newpage
+%
+% For papers in Russian, the following lines are
+% paper title, authors, and abstract in English.
+%
+%\selectlanguage{english}
+\begin{center}
+\large \bfseries \MakeTextUppercase{%
+English name of paper
+}
+\end{center}
+%
+\begin{center}
+\bfseries
+Authors
+%I.~I.~Ivanov, A.~E.~Petrov, L.~V.~Sidorov, A.~Smith
+%}%
+\end{center}
+%
+\begin{center}
+\begin{minipage}{\textwidth - 2cm}
+\small
+Abstract in English.
+\end{minipage}
+\end{center}
+%\selectlanguage{russian}
+%
+\newpage
+%
+%%++ Figure:1
+%\begin{figure}
+%\includegraphics{fig1.eps}
+%\caption{....}
+%\end{figure}
+%
+\newpage
+%
+%%++ Figure:2
+%\begin{figure}
+%\includegraphics{fig2.eps}
+%\caption{....}
+%\end{figure}
+%
+\newpage
+%
+%%++ Table:1
+\begin{table}
+\caption{....}
+\bigskip
+\begin{tabular}{|c|c|c|c|c|c|c|c|}
+...............
+\end{tabular}
+\end{table}
+%
+\newpage
+%%++ Table:2
+\begin{table}
+\caption{....}
+\bigskip
+\begin{tabular}{|c|c|c|c|c|c|c|}
+...............
+\end{tabular}
+\end{table}
+%
+......................
+%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%% Character code reference
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+%                                                                             %
+%                     Upper case letters: ABCDEFGHIJKLMNOPQRSTUVWXYZ          %
+%                     Lower case letters: abcdefghijklmnopqrstuvwxyz          %
+%                                   Digits: 0123456789                        %
+% Square, curly, angle braces, parentheses: [] {} <> ()                       %
+%                Backslash, slash, solidus: \ / |                             %
+%       Period, interrogative, exclamation: . ? !                             %
+%                 Comma, colon, semi-colon: , : ;                             %
+%          Underscore, hyphen, equals sign: _ - =                             %
+%             Quotes (left, right, double): ` ' "                             %
+%     Commercial-at, hash, dollar, percent: @ # $ %                           %
+%  Ampersand, asterisk, plus, caret, tilde: & * +   ^                         %
+%                                                                             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Please, include the above lines entitled
+% "Character code reference" into your file, which will make it possible
+% to check whether your file has been e-mailed correctly.
+%
+% The end of the file paper.tex
+%
